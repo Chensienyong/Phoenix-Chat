@@ -1,5 +1,8 @@
 # Chat
 
+![Build Status](https://travis-ci.com/Chensienyong/Phoenix-Chat.svg?branch=master)
+![codecov](https://codecov.io/gh/Chensienyong/Phoenix-Chat/branch/master/graph/badge.svg)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
